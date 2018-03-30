@@ -13,4 +13,4 @@ Apply what you’ve learnt so far in a fun setting: Engineering isn’t all abou
 
 You need a break - Competition takes place during a weekend with no assignments so you can fully enjoy the sumowar, hooray!
 
-[Link Text](https://www.youtube.com/playlist?list=PLr9Mk8Hu8V_WuZmykCYZbqNIy6eePRSwI)
+### Video Tutorials available here: [Link Text](https://www.youtube.com/playlist?list=PLr9Mk8Hu8V_WuZmykCYZbqNIy6eePRSwI)
