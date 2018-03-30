@@ -1,4 +1,4 @@
-# Sumowars
+# Minerva Robotics Competition
 
 Build your own Sumobots and battle it out in an epic 851 vs 1412 faceoff on 30th and 31st March! No prior experience is needed or expected, and 1 Sumobot kit per team and guidance on building and programming will be provided. Exciting prizes await the ultimate champions!
 
