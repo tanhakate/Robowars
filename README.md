@@ -14,4 +14,5 @@ Apply what you’ve learnt so far in a fun setting: Engineering isn’t all abou
 You need a break - Competition takes place during a weekend with no assignments so you can fully enjoy the sumowar, hooray!
 
 ### Video Tutorials available here: [Link Text](https://www.youtube.com/playlist?list=PLr9Mk8Hu8V_WuZmykCYZbqNIy6eePRSwI)
+### Eventbrite:[Link Text](https://www.eventbrite.com/e/robowars-a-battle-of-the-residence-halls-851-vs-1412-tickets-44428950186)
 
